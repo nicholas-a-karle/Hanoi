@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "initializer_list": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "utility": "cpp",
+        "list": "cpp",
+        "type_traits": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "cmath": "cpp",
+        "xhash": "cpp",
+        "xlocale": "cpp",
+        "xlocnum": "cpp",
+        "xtree": "cpp",
+        "xlocmes": "cpp"
+    }
+}
